@@ -1,6 +1,6 @@
-# world_time
+# World_Time_App
 
-A new Flutter application.
+A Flutter application which allows users to choose a location and view the current time in that location.
 
 ## Getting Started
 
